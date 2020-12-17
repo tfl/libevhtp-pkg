@@ -1,4 +1,7 @@
 # ##############################################################################################
+#
+# Based on https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=libevhtp-seafile
+#
 # As of 2020-DEC-17 libevhtp is a (the first) requirement for any Seafile server installation
 # This PKGBUILD just does a checkout of the master branch and adds v1.2.0 instead of
 # downloading/extracting and patching a source tree.
